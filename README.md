@@ -1,18 +1,24 @@
 # Macro Studio // Mouse
 
 **PT-BR** · Gerador de macros gratuito para **qualquer mouse** no Windows 10 e 11. Programa criado por **NewRSX**.
+
 **EN** · Free macro generator for **any mouse** on Windows 10 and 11. Created by **NewRSX**.
 
 ![Macro Studio // Mouse](macro-studio-mouse-v1.2.0-pt.png)
 
 ## ⬇️ Download
 
-**[Baixar a versão mais recente / Download the latest version](https://github.com/rodrigoseixas82/macrostudio-mouse/releases/latest)**
+### [⬇️ Baixar o instalador (versão 1.2.0)](https://github.com/rodrigoseixas82/macrostudio-mouse/releases/download/v1.2.0/MacroStudio_Mouse_1.2.0.0.exe)
 
-Em *Assets*, baixe o arquivo `MacroStudio_Mouse_X.Y.Z.0.exe` e rode. Para atualizar, rode o instalador novo por cima: seus perfis e macros são mantidos.
-Under *Assets*, download `MacroStudio_Mouse_X.Y.Z.0.exe` and run it. To update, run the new installer over the old one: your profiles and macros are kept.
+Baixe e dê dois cliques no arquivo para instalar. Já tem o programa? Instale por cima: seus perfis e macros são mantidos.
 
-> **"O Windows protegeu o computador" / "Windows protected your PC"**: clique em *Mais informações* > *Executar assim mesmo* (click *More info* > *Run anyway*). O instalador não tem assinatura digital paga; não é vírus.
+**EN** · [Download the installer (version 1.2.0)](https://github.com/rodrigoseixas82/macrostudio-mouse/releases/download/v1.2.0/MacroStudio_Mouse_1.2.0.0.exe). Run it to install; to update, install over the old version and your profiles and macros are kept.
+
+Versões anteriores / Previous versions: [todas as versões](https://github.com/rodrigoseixas82/macrostudio-mouse/releases)
+
+> **"O Windows protegeu o computador"**: clique em *Mais informações* > *Executar assim mesmo*. O instalador não tem assinatura digital paga; não é vírus.
+>
+> **EN** · **"Windows protected your PC"**: click *More info* > *Run anyway*.
 
 ## O que faz / What it does
 
@@ -32,4 +38,6 @@ O programa avisa sozinho quando há uma versão nova aqui no GitHub. · The prog
 O Macro Studio é gratuito. · Macro Studio is free. ☕ [buymeacoffee.com/newrsx](https://buymeacoffee.com/newrsx) · Pix dentro do programa (aba Sobre).
 
 ---
-Use com responsabilidade: macros e autoclicker em partidas online competitivas podem violar as regras dos jogos. · Use responsibly: macros and autoclickers in competitive online matches may break game rules.
+Use com responsabilidade: macros e autoclicker em partidas online competitivas podem violar as regras dos jogos.
+
+**EN** · Use responsibly: macros and autoclickers in competitive online matches may break game rules.
