@@ -6,20 +6,6 @@
 
 ![Macro Studio // Mouse](macro-studio-mouse-v1.2.0-pt.png)
 
-## ⬇️ Download
-
-### [⬇️ Baixar o instalador (versão 1.2.0)](https://github.com/rodrigoseixas82/macrostudio-mouse/releases/download/v1.2.0/MacroStudio_Mouse_1.2.0.0.exe)
-
-Baixe e dê dois cliques no arquivo para instalar. Já tem o programa? Instale por cima: seus perfis e macros são mantidos.
-
-**EN** · [Download the installer (version 1.2.0)](https://github.com/rodrigoseixas82/macrostudio-mouse/releases/download/v1.2.0/MacroStudio_Mouse_1.2.0.0.exe). Run it to install; to update, install over the old version and your profiles and macros are kept.
-
-Versões anteriores / Previous versions: [todas as versões](https://github.com/rodrigoseixas82/macrostudio-mouse/releases)
-
-> **"O Windows protegeu o computador"**: clique em *Mais informações* > *Executar assim mesmo*. O instalador não tem assinatura digital paga; não é vírus.
->
-> **EN** · **"Windows protected your PC"**: click *More info* > *Run anyway*.
-
 ## O que faz / What it does
 
 - Ação para cada botão (laterais, roda, meio): clique, segurar e clique duplo · Per-button actions: click, hold and double click
